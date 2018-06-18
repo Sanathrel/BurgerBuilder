@@ -1,0 +1,13 @@
+.CheckoutSummary {
+	text-align: center;
+}
+
+.CheckoutSummary > div {
+	height: 450px;
+}
+
+@media (max-width: 1000px) {
+	.CheckoutSummary > div {
+		height: 300px;
+	}
+}
