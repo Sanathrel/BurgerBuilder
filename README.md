@@ -2,4 +2,6 @@
 
 	https://burger-lmyxfeemxv.now.sh
 
-Or check out the code structure in this repository. Happy Hacking :)
+As you can see, the project is deployed with NOW and connected to FireBase, so all the orders you make could be found at the "Orders" page.
+
+You may also check out the code structure in this repository. Happy Hacking :)
